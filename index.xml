@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>open source evangelist</title>
+      <link>https://hmmatos.github.io/sobre/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmmatos.github.io/sobre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Serviços</title>
       <link>https://hmmatos.github.io/servicos/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
@@ -31,15 +40,6 @@
  switching and routing wireless vlans  Segurança
  firewall vpn  Consultoria
  linux IoT  </description>
-    </item>
-    
-    <item>
-      <title>Sobre</title>
-      <link>https://hmmatos.github.io/sobre/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hmmatos.github.io/sobre/</guid>
-      <description>open source evangelist</description>
     </item>
     
   </channel>
