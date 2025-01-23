@@ -8,33 +8,43 @@
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://hmmatos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contactos</title>
-      <link>https://hmmatos.github.io/contactos/</link>
+      <title>Contacts</title>
+      <link>https://hmmatos.github.io/contacts/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hmmatos.github.io/contactos/</guid>
-      <description> tel: +351 966 872 242 email: hmmatos@gmail.com  </description>
+      <guid>https://hmmatos.github.io/contacts/</guid>
+      <description> phone: +351 966 872 242 email: hmmatos@gmail.com  </description>
     </item>
     
     <item>
-      <title>open source evangelist</title>
-      <link>https://hmmatos.github.io/sobre/</link>
+      <title>About</title>
+      <link>https://hmmatos.github.io/about/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hmmatos.github.io/sobre/</guid>
-      <description></description>
+      <guid>https://hmmatos.github.io/about/</guid>
+      <description>open source evangelist</description>
     </item>
     
     <item>
-      <title>Serviços</title>
-      <link>https://hmmatos.github.io/servicos/</link>
+      <title>Services</title>
+      <link>https://hmmatos.github.io/services/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hmmatos.github.io/servicos/</guid>
-      <description>Redes IP
- switching and routing wireless vlans  Segurança
- firewall vpn  Consultoria
- linux IoT Controlo de acessos VoIP  </description>
+      <guid>https://hmmatos.github.io/services/</guid>
+      <description>
+        Redes IP
+        switching and routing 
+        wireless 
+        vlans  
+        Segurança
+        firewall 
+        vpn  
+        Consultoria
+        linux 
+        IoT 
+        Controlo de acessos 
+        VoIP  
+      </description>
     </item>
     
   </channel>
